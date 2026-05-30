@@ -13,7 +13,6 @@ Este proyecto simula una tienda de tecnología con categorías, productos y un d
 ## Vista previa del proyecto
 
 ![Tech Store Screenshot](https://github.com/user-attachments/assets/2f67f793-e15e-4bf2-95d0-785b2874bee6)
-<img width="1916" height="1088" alt="image" src="https://github.com/user-attachments/assets/2f67f793-e15e-4bf2-95d0-785b2874bee6" />
 
 ---
 

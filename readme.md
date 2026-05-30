@@ -6,6 +6,8 @@ Proyecto de tienda online de productos tecnológicos desarrollado con HTML y CSS
 
 ## Demo del proyecto
 
+https://alexandra-correa.github.io/desafio-ecommerce/
+
 Este proyecto simula una tienda de tecnología con categorías, productos y un diseño estructurado tipo dashboard e-commerce.
 
 ---
@@ -33,3 +35,11 @@ Este proyecto simula una tienda de tecnología con categorías, productos y un d
 ---
 
 ## Estructura del proyecto
+
+desafio-ecommerce/
+│
+├── index.html
+├── readme.md
+├── /css
+│   └── styles.css
+└── /img
